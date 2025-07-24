@@ -1,5 +1,7 @@
 Rock vs Mine Sonar Detection Project
+
 Overview
+
 This project aims to detect and classify objects in sonar imagery as either "rock" or "mine" using a deep learning model. Sonar images are commonly used in underwater exploration and navigation. The goal of this project is to develop an efficient deep learning model that can differentiate between rocks and mines based on sonar signal data.
 
 Objective
